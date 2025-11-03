@@ -1,0 +1,17 @@
+/* 全站字体 + 字号 */
+html, body {
+  font-family: "Latin Modern", "Latin Modern Roman", "Computer Modern Serif",
+               "Times New Roman", Times, serif;
+  font-size: 1.05rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 标题沿用同一字体（可选） */
+h1, h2, h3, h4, h5, h6 { font-family: inherit; line-height: 1.2; }
+
+/* 代码区保持等宽字体，避免被覆盖 */
+code, pre, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Liberation Mono",
+               "DejaVu Sans Mono", Consolas, "Courier New", monospace;
+}

@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I teach and assist.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### EN.530.646 — Robot Devices, Kinematics, Dynamics, and Control
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching Assistant at Johns Hopkins University, taught by Prof. Jin-Seob Kim
+
+I served as a Teaching Assistant for EN.530.646 at Johns Hopkins University — Robot Devices, Kinematics, Dynamics, and Control, taught by Prof. Jin-Seob Kim. Topics include properties of rotation and transformation, exponential coordinates for rigid motion, twists and screws, introduction to Lie group and Lie algebra, rigid body velocity, screw coordinates for velocity and wrench, forward/inverse kinematics, the Jacobian, geometric singularities and manipulability, Lagrange’s equations and dynamics, and an introduction of control and stability theory.
+
+**Textbook:** *A Mathematical Introduction to Robotic Manipulation* (Murray–Li–Sastry).
