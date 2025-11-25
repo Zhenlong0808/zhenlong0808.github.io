@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: |
+  Research Assistant in Robotics @ Carnegie Mellon University
+  Robotics · Embodied Intellience · Multi-Agent Systems · Game Theory
 
 profile:
   align: right
@@ -28,10 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Zhenlong Fang
-
-Research Assistant in Robotics @ Carnegie Mellon University  
-Robotics · Embodied Intellience · Multi-Agent Systems · Game Theory 
 
 `About Me`
 
