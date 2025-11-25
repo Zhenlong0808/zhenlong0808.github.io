@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  Research Assistant in Robotics @ Carnegie Mellon University
+  Research Assistant in Robotics @ Carnegie Mellon University<br>
   Robotics · Embodied Intellience · Multi-Agent Systems · Game Theory
 
 profile:
