@@ -41,7 +41,7 @@ I have been fortunate to work with collaborators across several institutions, in
 
 `Research Interests`
 
-- Learning-based control for legged and humanoid robots, including reinforcement learning, imitation learning, and diffusion-style policies for dynamic, agile behaviors.
+- Learning-based control for legged and humanoid robots, including reinforcement learning, imitation learning, and diffusion policy for dynamic, agile behaviors.
 - Ego-centric, cross-embodiment manipulation and whole-body control, with unified control interfaces across different robot platforms (e.g., Unitree G1).
 - Multi-agent reinforcement learning and game-theoretic methods (e.g., correlated equilibrium in convex games) for coordination in complex traffic scenarios such as ramp merging and intersection management.
 - Planning algorithms for multi-agent systems, especially bounded-suboptimal methods for teamwise cooperative multi-agent path finding (TC-MAPF).
