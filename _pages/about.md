@@ -30,7 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 `About Me`
 
 I am a Ph.D. student in Mechanical Engineering at the University of California, Berkeley, advised by Prof. Negar Mehr. My research centers on humanoid loco-manipulation and robot generalization: building robots that adapt to diverse tasks and operate robustly in complex real-world environments.
