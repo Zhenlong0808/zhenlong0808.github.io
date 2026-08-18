@@ -3,18 +3,18 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  Research Assistant in Robotics @ Carnegie Mellon University<br>
-  Robotics · Embodied Intellience · Multi-Agent Systems · Game Theory
+  Ph.D. Student in Mechanical Engineering @ UC Berkeley<br>
+  Humanoid Loco-Manipulation · Robot Generalization · Embodied Intelligence
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Research Assistant</p>
-    <p>Carngie Mellon University</p>
-    <p>Pittsburgh, PA, USA</p>
-    <p><a href="mailto:zhenlonf@andrew.cmu.edu">zhenlonf@andrew.cmu.edu</a></p>
+    <p>Ph.D. Student, Mechanical Engineering</p>
+    <p>University of California, Berkeley</p>
+    <p>Berkeley, CA, USA</p>
+    <p><a href="mailto:zhenlong0808@berkeley.edu">zhenlong0808@berkeley.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,15 +33,13 @@ latest_posts:
 
 `About Me`
 
-I am a research assistant in robotics at Carnegie Mellon University, working with Prof. Ding Zhao. My long-term goal is to develop robots that can act cooperatively, interpretably, and safely-systems that not only perform useful tasks but also collaborate effectively with humans and other robots. To this end, I explore learning-based approaches that tightly couple perception, control, and reasoning in embodied systems.
+I am a Ph.D. student in Mechanical Engineering at the University of California, Berkeley, advised by Prof. Negar Mehr. My research centers on humanoid loco-manipulation and robot generalization: building robots that adapt to diverse tasks and operate robustly in complex real-world environments.
 
-Previously, I obtained my B.A. in Computer Science from the University of Minnesota Twin Cities, where I was consistently on the Dean's List. My undergraduate training in computer science shaped my interest in combining rigorous algorithmic thinking with data-driven learning for robotics and autonomous systems.
+Previously, I was a research assistant in robotics at Carnegie Mellon University, working with Prof. Ding Zhao, and I obtained my B.A. in Computer Science from the University of Minnesota Twin Cities, where I worked with Prof. Yue Yu. That training shapes how I approach robotics today, combining rigorous algorithmic thinking with data-driven learning.
 
-I have been fortunate to work with collaborators across several institutions, including Carnegie Mellon University, University of Wisconsin-Madison, Shanghai Jiao Tong University, University of Minnesota, etc. My recent projects span ego-centric cross-embodiment manipulation for humanoid robots, optimal co-design for quadrupedal skating, bounded-suboptimal algorithms for teamwise cooperative multi-agent path finding, and game-theoretic coordination in traffic assignment and multi-agent reinforcement learning for ramp merging.
+Before turning to humanoids, I was fortunate to work with collaborators at Carnegie Mellon University, the University of Wisconsin-Madison, Shanghai Jiao Tong University, and the University of Minnesota.
 
 `Research Interests`
 
-- Learning-based control for legged and humanoid robots, including reinforcement learning, imitation learning, and diffusion policy for dynamic, agile behaviors.
-- Ego-centric, cross-embodiment manipulation and whole-body control, with unified control interfaces across different robot platforms (e.g., Unitree G1).
-- Multi-agent reinforcement learning and game-theoretic methods (e.g., correlated equilibrium in convex games) for coordination in complex traffic scenarios such as ramp merging and intersection management.
-- Planning algorithms for multi-agent systems, especially bounded-suboptimal methods for teamwise cooperative multi-agent path finding (TC-MAPF).
+- Humanoid loco-manipulation: whole-body control that couples locomotion and manipulation for dynamic, contact-rich tasks.
+- Robot generalization: policies that transfer across tasks, embodiments, and environments, and stay robust when deployed in the real world.

@@ -6,15 +6,15 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhenlong
 last_name: Fang
 contact_note: >
-  Best way to reach me is by email(zhenlonf@andrew.cmu.edu)
+  Best way to reach me is by email(zhenlong0808@berkeley.edu)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Assistant in Robotics @ Carnegie Mellon University.
-  Robotics · Embodied Intelligence · Multi-Agent Systems · Game Theory.
+  Ph.D. Student in Mechanical Engineering @ UC Berkeley.
+  Humanoid Loco-Manipulation · Robot Generalization · Embodied Intelligence.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: robotics, reinforcement learning, embodied intelligence, multi-agent systems, game theory, legged robots # add your own keywords or leave empty
+keywords: robotics, humanoid robots, loco-manipulation, robot generalization, reinforcement learning, embodied intelligence, legged robots # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Fang, "Fang*"]
+  first_name: [Zhenlong, Z.]
 
   style: apa
   locale: en
